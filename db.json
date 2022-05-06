@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "users": [
+    {
+      "name": "Sky patel",
+      "address": "Adajan Surat Gujarat",
+      "email": "sky@gmail.com",
+      "gender": "Male",
+      "id": 10
+    },
+    {
+      "name": "Nilesh Mahajan",
+      "address": "Surat Gujarat",
+      "email": "nrmahajan@gmail.com",
+      "gender": "Male",
+      "id": 11
+    },
+    {
+      "name": "Jenish Naik",
+      "address": "Surat Gujarat India",
+      "email": "jenish@gmail.com",
+      "gender": "Male",
+      "id": 12
+    },
+    {
+      "name": "Vijaya",
+      "address": "Surat",
+      "email": "vijay@gmail.com",
+      "gender": "Female",
+      "id": 13
+    }
+  ]
+}
